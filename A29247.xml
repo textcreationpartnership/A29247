@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apostolick charity, its nature and excellence consider'd in a discourse upon Dan. 12. 3, preached at St. Pauls, Decemb. 19, 1697 at the ordination of some Protestant missionaries to be sent into the plantations : to which is prefixt, A general view of the English colonies in America, with respect to religion : in order to shew what provision is wanting for the propagation of Christianity in those parts / by Thomas Bray, D. D.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29247</idno>
+            <idno type="STC">Wing B4285</idno>
+            <idno type="STC">ESTC R6508</idno>
+            <idno type="EEBO-CITATION">11602113</idno>
+            <idno type="OCLC">ocm 11602113</idno>
+            <idno type="VID">47896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apostolick charity, its nature and excellence consider'd in a discourse upon Dan. 12. 3, preached at St. Pauls, Decemb. 19, 1697 at the ordination of some Protestant missionaries to be sent into the plantations : to which is prefixt, A general view of the English colonies in America, with respect to religion : in order to shew what provision is wanting for the propagation of Christianity in those parts / by Thomas Bray, D. D.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>[10], 30 p. ;  22 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Downing for W. Hawes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>"A general view of the English colonies in America" has a caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  United States.</term>
+               <term>Church of England --  West Indies.</term>
+               <term>Bible. --  O.T. --  Daniel XII, 3 --  Sermons.</term>
+               <term>Missions --  American.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47896:1"/>
+            <pb facs="tcp:47896:1" rendition="simple:additions"/>
+            <p>Apoſtolick Charity, ITS Nature and Excellence CONSIDER'D. IN A DISCOURSE Upon <hi>Dan.</hi> 12.3. Preached at St. <hi>Pauls, Decemb.</hi> 19. 1697. at the Ordination of ſome Prote<g ref="char:EOLhyphen"/>ſtant Miſſionaries to be ſent into the Plantations.</p>
+            <p>To which is Prefixt, <hi>A General View of the</hi> Engliſh Colonies <hi>in</hi> America, <hi>with reſpect to Religion; In order to ſhew what Proviſion is wanting for the Propagation of</hi> Chriſtianity <hi>in thoſe Parts.</hi>
+            </p>
+            <p>By <hi>Thomas Bray,</hi> D. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing,</hi> for <hi>William Hawes,</hi> at the Sign of the <hi>Roſe</hi> in <hi>Ludgate-Street,</hi> 1698.</p>
+         </div>
+         <div type="prefatory_text">
+            <pb facs="tcp:47896:2"/>
+            <pb facs="tcp:47896:2"/>
+            <head>A GENERAL VIEW OF THE English Colonies in America, With Reſpect to RELIGION, In order to ſhew what Proviſion is wanting for the Propagation of <hi>Chriſtianity</hi> in Thoſe Parts.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Colonies.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Pariſhes</hi> &amp; <hi>Churches</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Miniſters</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Libraries</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>I.</cell>
+                     <cell>
+                        <hi>New found land</hi> Hath 5 or 6 Engliſh Set<g ref="char:EOLhyphen"/>tlements, wherein are near 500 Families con<g ref="char:EOLhyphen"/>ſtantly upon the Iſland, beſides the great Num<g ref="char:EOLhyphen"/>bers of Ships and Seamen, who put in at Fiſhing-Seaſons.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">II.</cell>
+                     <cell rows="3">
+                        <hi>New-England.</hi>
+                     </cell>
+                     <cell>Well provided for the Propagation of Reli<g ref="char:EOLhyphen"/>gion in the <hi>Independent</hi> Way, having 110 Churches, together with an Univerſity; as alſo a Fund for the Propagation of the Faith amongſt the Na<g ref="char:EOLhyphen"/>tive <hi>Indians.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">There is alſo 1 Church at <hi>Boſton</hi> after <hi>the Church of England</hi> Form.</cell>
+                     <cell>1 Miniſter.</cell>
+                     <cell rows="2">1 Library.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Aſſiſtant.</cell>
+                  </row>
+                  <pb facs="tcp:47896:3"/>
+                  <row>
+                     <cell rows="4">III.</cell>
+                     <cell rows="4">
+                        <hi>New-York.</hi>
+                     </cell>
+                     <cell>1 Church in the Fort.</cell>
+                     <cell>1 Miniſter in the Fort.</cell>
+                     <cell rows="4">1 Library.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Church in the City.</cell>
+                     <cell>1 Miniſter in the City.</cell>
+                  </row>
+                  <row>
+                     <cell>2 <hi>Dutch</hi> Churches.</cell>
+                     <cell>2 <hi>Dutch</hi> Miniſters.</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>French</hi> Church.</cell>
+                     <cell>1 <hi>French</hi> Miniſter.</cell>
+                  </row>
+                  <row>
+                     <cell rows="6"> </cell>
+                     <cell rows="2">1. <hi>Long-Iſland</hi> A <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Colony belong<g ref="char:EOLunhyphen"/>ing to the Government of New-York, having in the Eaſt-part 10 Engliſh-Towns, wherein are com<g ref="char:EOLhyphen"/>puted above <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>00 Fami<g ref="char:EOLhyphen"/>lies, and in the Weſt-part 9 Dutch-Towns. wherein are up<gap reason="illegible" resp="#UOM" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> of 500 Families.</cell>
+                     <cell rows="2">13 Churches.</cell>
+                     <cell>Not 1 <hi>Church</hi> of <hi>England</hi> Miniſter, tho' much deſir'd in the <hi>Engliſh</hi> Part.</cell>
+                     <cell rows="2"> </cell>
+                  </row>
+                  <row>
+                     <cell>3 <hi>Dutch</hi> Mi<g ref="char:EOLhyphen"/>niſters in the Weſt-part.</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">2. <hi>Albany,</hi> A large City, conſiſting of 400 Families, bordering up<g ref="char:EOLhyphen"/>on the <hi>Indians,</hi> and belong<g ref="char:EOLhyphen"/>ing to the Go<g ref="char:EOLhyphen"/>vernment of <hi>New York.</hi>
+                     </cell>
+                     <cell>1 Church in the Fort for the Garriſon, conſiſting of 2 Foot-Companies, and the <hi>Engliſh</hi> Inhabitants of the Town.</cell>
+                     <cell> </cell>
+                     <cell rows="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Dutch</hi> Church.</cell>
+                     <cell>1 <hi>Dutch</hi> Miniſter.</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>French</hi> Church.</cell>
+                     <cell>1 <hi>French</hi> Miniſter.</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Swediſh</hi> Church.</cell>
+                     <cell>1 <hi>Swediſh</hi> Miniſter.</cell>
+                  </row>
+                  <row>
+                     <cell>IV</cell>
+                     <cell>
+                        <hi>Eaſt New Jerſey</hi>
+                     </cell>
+                     <cell>In <hi>Eaſt-Jerſey</hi> there are 8 Towns, no Church.</cell>
+                     <cell rows="2">1 Miniſter going over</cell>
+                     <cell rows="2">A Library begun.</cell>
+                  </row>
+                  <row>
+                     <cell>V.</cell>
+                     <cell>
+                        <hi>Weſt New Jerſey</hi>
+                     </cell>
+                     <cell>In this Province there are alſo ſeveral Towns.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">VI</cell>
+                     <cell rows="2">
+                        <hi>Penſylvania.</hi>
+                     </cell>
+                     <cell rows="2">1 Church at <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi> having a conſi<g ref="char:EOLhyphen"/>derable Number of <hi>Church of England</hi> Proteſtants.</cell>
+                     <cell>1 Miniſter.</cell>
+                     <cell rows="2">1 Library.</cell>
+                  </row>
+                  <row>
+                     <cell>1 School-Maſter.</cell>
+                  </row>
+                  <pb facs="tcp:47896:3"/>
+                  <row>
+                     <cell>VII.</cell>
+                     <cell>
+                        <hi>Mary-Land</hi>
+                     </cell>
+                     <cell>30 Pariſhes, but meanly Endow'd, the Coun<g ref="char:EOLhyphen"/>try being but lately divided into Pariſhes, and the Churches but lately built, to the great Charge of the preſent Governour Colonel <hi>Nicholſon,</hi> and the Country.</cell>
+                     <cell>16 Mini<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell>16 Libra<g ref="char:EOLhyphen"/>ries.</cell>
+                  </row>
+                  <row>
+                     <cell>VIII.</cell>
+                     <cell>
+                        <hi>Virginia.</hi>
+                     </cell>
+                     <cell>50 Pariſhes, with 100 Churches &amp; Chapels. There is alſo a Noble College now Erected, and Endow'd by His preſent Majeſty and the late Queen; and carry'd on from the firſt Foundation with the great Charge, Application, and Ma<g ref="char:EOLhyphen"/>nagement of Colonel <hi>Nicholſon,</hi> and the o<g ref="char:EOLhyphen"/>ther Truſtees and Go<g ref="char:EOLhyphen"/>vernours thereof.</cell>
+                     <cell>30 Mini<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>IX.</cell>
+                     <cell>
+                        <hi>North Carolina</hi>
+                     </cell>
+                     <cell rows="2">1 Church lately built at <hi>Charles-Town.</hi>
+                     </cell>
+                     <cell rows="2">1 Miniſter going over</cell>
+                     <cell rows="2">1 Library.</cell>
+                  </row>
+                  <row>
+                     <cell>X.</cell>
+                     <cell>
+                        <hi>South Carolina</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>XI.</cell>
+                     <cell>
+                        <hi>Bermudas.</hi>
+                     </cell>
+                     <cell>8 Tribes or Pariſhes, where<g ref="char:EOLhyphen"/>in are 9 Churches, and near 1000 Families.</cell>
+                     <cell>3 Miniſters</cell>
+                     <cell>3 Libraries</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">XII.</cell>
+                     <cell cols="4">
+                        <hi>Bahama</hi> Iſlands, <hi>viz.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1. <hi>Providence.</hi>
+                     </cell>
+                     <cell>Has 80 Families with 1 Church lately built.</cell>
+                     <cell>1 Miniſter.</cell>
+                     <cell rows="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>2. <hi>Eleutheria.</hi>
+                     </cell>
+                     <cell>Has about 20 Families.</cell>
+                     <cell rows="2"> </cell>
+                  </row>
+                  <pb facs="tcp:47896:4"/>
+                  <row>
+                     <cell>3. <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dros.</hi>
+                     </cell>
+                     <cell>Has ſeveral Families.</cell>
+                  </row>
+                  <row>
+                     <cell>XIII.</cell>
+                     <cell>
+                        <hi>Jamaica.</hi>
+                     </cell>
+                     <cell>15 Pariſh-Churches.</cell>
+                     <cell>8 Miniſters</cell>
+                     <cell>2 Libraries begun.</cell>
+                  </row>
+                  <row>
+                     <cell>XIV.</cell>
+                     <cell>
+                        <hi>Anguilla.</hi>
+                     </cell>
+                     <cell>A poor Iſland, having ſeveral <hi>Engliſh</hi> upon it, but not able of themſelves to build a Church, nor maintain a Mi<g ref="char:EOLhyphen"/>niſter.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>XV.</cell>
+                     <cell>
+                        <hi>St. Chriſto<g ref="char:EOLhyphen"/>phers.</hi>
+                     </cell>
+                     <cell>6 Pariſh-Churches.</cell>
+                     <cell>1 Miniſter.</cell>
+                     <cell>1 Library begun.</cell>
+                  </row>
+                  <row>
+                     <cell>XVI.</cell>
+                     <cell>
+                        <hi>Antego.</hi>
+                     </cell>
+                     <cell>5 Churches.</cell>
+                     <cell>3 Miniſters</cell>
+                     <cell>1 Library begun.</cell>
+                  </row>
+                  <row>
+                     <cell>XVII.</cell>
+                     <cell>
+                        <hi>Mevis.</hi>
+                     </cell>
+                     <cell>3 Pariſh-Churches.</cell>
+                     <cell>3 Miniſters</cell>
+                     <cell>1 Library begun.</cell>
+                  </row>
+                  <row>
+                     <cell>XVIII</cell>
+                     <cell>
+                        <hi>Monſerrat.</hi>
+                     </cell>
+                     <cell>3 Pariſh-Churches.</cell>
+                     <cell>3 Miniſters</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>XIX.</cell>
+                     <cell>
+                        <hi>Barbados.</hi>
+                     </cell>
+                     <cell>14 Pariſh-Churches.</cell>
+                     <cell>14 Mini<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>XX.</cell>
+                     <cell>
+                        <hi>St. Vincents.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1">1. By what goes before it may appear, That ſe<g ref="char:EOLhyphen"/>veral of our Colonies do want Churches and Pariſhes, and that one half at leaſt of the Pa<g ref="char:EOLhyphen"/>riſhes want Miniſters.</p>
+            <p n="2">2. By Experience, as well as the Reaſon of the Thing, I'm convinc'd, That 100<hi>l.</hi> laid out in a LIBRARY, is what will beſt induce a Learned and Sober Miniſter to go into the Ser<g ref="char:EOLhyphen"/>vice
+<pb facs="tcp:47896:4"/> of any part of the Church in the Planta<g ref="char:EOLhyphen"/>tions; And that the ſame is a neceſſary Encou<g ref="char:EOLhyphen"/>ragement, conſidering that few Men of Fortunes, who are able to purchaſe Books for themſelves, will go into ſuch remote Parts.</p>
+            <p n="3">3. By what goes before it may alſo appear, That meerly the ſettling of LIBRARIES in the ſeveral Pariſhes of each Province will require a very conſiderable Fund, Fifty Pounds worth of Books being the leaſt that can be ſuppos'd requi<g ref="char:EOLhyphen"/>ſite to enable a Miniſter to diſcharge the Duties of his Function. Beſides that, in the Chief Town in each Province it would be requiſite to have a Library of more Univerſal Learning, for the Service and Encouragement of thoſe who ſhall launch out farther in the purſuit of Uſeful Knowledge, as well Natural as Divine.</p>
+            <p n="4">4. Beſides LIBRARIES of Neceſſary Books in Divinity, for the Uſe of the Clergy, it will be requiſite, in order to propagate Chriſtian Faith and Manners, to furniſh the reſpective Miniſters with ſome Numbers of Bibles, Catechiſms, Common-Prayers, and other Practical and De<g ref="char:EOLhyphen"/>votional Pieces, to diſtribute <hi>gratis,</hi> eſpecially in poorer Families.</p>
+            <p n="5">
+               <pb facs="tcp:47896:5"/>5. It will be farther requiſite to have free Schools erected, at leaſtwiſe one in every County, for the Education of their Children: And it would, in a more eſpecial manner, become the Pro<g ref="char:EOLhyphen"/>feſſors of ſo Excellent a Religion as ours, to have a Proviſion made in one or two Schools at leaſtwiſe, in every Province, for the Inſtru<g ref="char:EOLhyphen"/>ction of half a dozen <hi>Indian</hi> Youth, to be ſent afterwards amongſt their own People, to civilize and convert them.</p>
+            <p>Thus, in ſhort, I have endeavoured to give a <hi>General View</hi> of the State of the <hi>Plantations,</hi> with re<g ref="char:EOLhyphen"/>ſpect to <hi>Religion,</hi> and to hint at what is wanting to promote it: And from this very ſlender View how eaſie is it to ſee, and with what Indignation can we behold, how many <hi>Engliſh</hi> Colonies there are, the Trade of one whereof is ſometimes computed to be worth 500000 <hi>l. per Annum</hi> to this Nation, in which there is no <hi>Church,</hi> nor <hi>Preacher,</hi> nor <hi>Publick Worſhip,</hi> nor <hi>Sacraments</hi> adminiſtred. The <hi>Ma<g ref="char:EOLhyphen"/>hometan</hi> does not ſo little regard his <hi>falſe Prophet.</hi> He no ſooner gains any new Province, but he erects his <hi>Moſchs,</hi> and places the <hi>Creſcent</hi> upon the top of them, to intimate that his Religion ſhall increaſe, or it is not his fault. And the <hi>Papiſts,</hi> we do well know, ſpare no Coſt in ſending their <hi>Miſſions</hi> into
+<pb facs="tcp:47896:5"/> all the parts of the known World. And it is very worthy our Notice, that the <hi>Dutch Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany do Yearly expand, and that with great Succeſs, 15000 <hi>l. per Annum</hi> in the <hi>Eaſt-Indies</hi> alone, for the Maintaining and Propagating the Chriſtian Faith. And now, that ſo little ſhould be yet done, ſo much as to preſerve in Being that <hi>Pure</hi> and <hi>Unde<g ref="char:EOLhyphen"/>fil'd Religion</hi> which we profeſs, even in thoſe Colo<g ref="char:EOLhyphen"/>nies of <hi>Engliſh</hi> Men, from whence the whole King<g ref="char:EOLhyphen"/>dom has been ſo much Enrich'd, as well the <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> by the Advance of his <hi>Rents,</hi> as the <hi>Merchant,</hi> by the Increaſe of his <hi>Stores,</hi> and the <hi>Mechanick,</hi> by the Vending of his <hi>Manufactures,</hi> is truly an amaſing, as well as a melancholy Conſideration to ſuch as have any true Love to God, or the Souls of Men.</p>
+            <p>But, alas! how few are there amongſt us who do in the leaſt reflect upon, or at all value the ineſtimable Advantages which, above the reſt of the World, they enjoy by being Chriſtians. It is now an indifferent thing with many what Religion Mankind is of; ſo that, according to thoſe Men, the Son of God did in vain deſcend from Heaven; and that grand Diſpenſation of the Goſpel, and that Myſtery of our Redemption, the Wiſdom and Goodneſs of which the Bleſſed Angels do with Admiration adore, was to little purpoſe, and might have been as well ſpar'd, for that the Heathens are
+<pb facs="tcp:47896:6"/> in as good a Condition as we. Nay, <hi>Chriſt Cru<g ref="char:EOLhyphen"/>cify'd</hi> is now become, as well as formerly, to ſome, a <hi>Stumbling-Block;</hi> to many, <hi>Fooliſhneſs,</hi> even the Subject of their Ridicule and Raillery. And theſe cannot but be look'd upon as Ominous preſages of ſome heavy Judgments upon us; for as an ingeni<g ref="char:EOLhyphen"/>ous Perſon doth ſingularly well obſerve, <hi>Whenever a Country loſes that Reverence that is due to Religion, and the Laws, we may ſafely pronounce that its Ruine is not very diſtant.</hi>
+            </p>
+            <p>
+               <hi>And as Contempt of Religion and the Laws is a ſure mark of a declining Nation; ſo new Colonies and Societies of Men muſt ſoon fall to pieces,</hi>
+               <note place="margin">Diſc. of the Trade of <hi>Eng.</hi> Part II. p. 265.</note> 
+               <hi>and dwindle to nothing, unleſs their Governours and Magiſtrates interpoſe, to ſeaſon betimes the Minds of ſuch a new People with a ſence of Religion, and with good and vertuous Principles.</hi>
+            </p>
+            <p>Theſe are Sentiments, I know, quite different from the Politicks of ſome Men, But thoſe who heartily believe God and his Providence, are firmly perſwaded, that the Happineſs and Well-being of any People does advance, or decline, in proportion to the Supports that are given, and the Regards that are paid to <hi>True Religion.</hi>
+            </p>
+            <p>And I muſt with Gratitude acknowledge, that ſome ſuch I have met with in the Proſecution of this Deſign, which I have engaged in for the <hi>Plan<g ref="char:EOLhyphen"/>tations,</hi>
+               <pb facs="tcp:47896:6"/> or elſe the Expence, as well as the Fateigue, had been wholly inſupportable. But as what has been hitherto done, does but let me into the View of ſo much more, which is ſtill wanting to Pro<g ref="char:EOLhyphen"/>pagate and Maintain Chriſtianity in thoſe Parts, ſo after that my Expectations of a more Publick Pro<g ref="char:EOLhyphen"/>viſion for this great Work have fail'd me, I muſt again renew my Applications to ſuch Pious Per<g ref="char:EOLhyphen"/>ſons who have a juſt Value of the Worth of their own, and others Souls. And if the following Diſcourſe upon the Nature and Excellency of this kind of Charity above all others, ſhall contribute any thing to promote the Deſign, I ſhall obtain an End, to accompliſh which I could be content to ſacrifice my Life, with the Remainder of my ſmall Fortunes; and thoſe worthy Perſons will doubtleſs find it upon their Accompt, when to be found a good Steward, to the Honour and Glory of God, of the Talents which He has given, will afford them thoſe ſuperlative Degrees of Joy, which are beyond the Imagination of us here below to conceive, and which therefore the following <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi> does not pretend ſo much as to ſhadow.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:47896:7"/>
+            <epigraph>
+               <q>
+                  <pb n="1" facs="tcp:47896:7"/>
+                  <bibl>
+                     <hi>DAN. XII. 3.</hi>
+                  </bibl>
+                  <p>They that be wiſe ſhall ſhine as the brightneſs of the Firmament, and they that turn many to Righteouſneſs, as the Stars for ever and ever.</p>
+               </q>
+            </epigraph>
+            <p>THIS, and the two preceding Verſes are a Prophecy of the future State of the Church, at the two great Advents of our Saviour to it. In the <hi>firſt</hi> Verſe is foretold, what dreadful Diſtreſſes and Difficulties it ſhould ſtruggle with. In the <hi>ſecond</hi> and <hi>third,</hi> are de<g ref="char:EOLhyphen"/>clar'd, what inexpreſſible Rewards will Crown the Labours of Chriſt's Faithful Servants, eſpeci<g ref="char:EOLhyphen"/>ally of thoſe who have been Inſtrumental in the Inſtruction and Converſion of Mankind. <hi>They that be wiſe,</hi> or Teachers, or Inſtructers, as ſome render it, <hi>ſhall ſhine as the,</hi> &amp;c. In my Enlargement upon which Words, I ſhall do theſe four things.</p>
+            <pb n="2" facs="tcp:47896:8"/>
+            <p>Firſt, <hi>I will ſhew you what is meant by turning many to Righteouſneſs.</hi>
+            </p>
+            <p>Secondly, <hi>Who they are that have, whoſe Duty yet it is, and who may ſtill be ſaid to turn many to Righteouſneſs.</hi>
+            </p>
+            <p>Thirdly, <hi>That it will be found one Day the higheſt pitch of Wiſdom to have been Inſtrumental in this bleſſed Work.</hi> Becauſe,</p>
+            <p>Fourthly, <hi>and</hi> Laſtly, <hi>Such ſhall be the moſt gloriouſly Rewarded.</hi> It is <hi>they that ſhall ſhine as the brightneſs of the Firmament, and as the Stars for ever and ever.</hi>
+            </p>
+            <p>And, <hi>Firſt,</hi> I will ſhew what is meant by <hi>turn<g ref="char:EOLhyphen"/>ing many to Righteouſneſs.</hi> Now <hi>Righteouſneſs,</hi> in the ſtricteſt ſence of the Word, does denote on<g ref="char:EOLhyphen"/>ly one Vertue amongſt the whole Train of Chriſtian Graces, namely, Juſtice and Equity betwixt Man and Man. But in its more com<g ref="char:EOLhyphen"/>prehenſive Acceptation, (and ſo it is generally to be underſtood throughout the Scriptures) it does import no leſs than the whole of that Re<g ref="char:EOLhyphen"/>ligion, which will render us accepted by God, and in which, if we be found, when we come to die, God will paſs a favourable Sentence upon us at the Day of Judgment.</p>
+            <pb n="3" facs="tcp:47896:8"/>
+            <p>And ſuch a Righteouſneſs, as it is now fixt, and ſtated under the Goſpel, conſiſts in this, that in the firſt place we <hi>Renounce the Devil and all his Works,</hi> that is, abandon the Service of that Arch-Rebel the Devil, and deteſt and forſake all his Works of Sin. He having himſelf moſt ungratefully Revolted from God, has not only carry'd whole Legions of fallen Angels into a curſed Rebellion againſt their Creator, but has drawn off the far greateſt part of Mankind in<g ref="char:EOLhyphen"/>to the ſame wicked Apoſtacy with himſelf; in<g ref="char:EOLhyphen"/>ſomuch, that divide the whole Earth into thirty Parts, it is computed by skilful Geographers, that nineteen of it are Inhabited by Idolaters, that is, Men ignorant of the true God; and in effect worſhippers of Devils: Not to ſay what Idolatrous, and other deſtructive Hereſies he has brought into Chriſtendom it ſelf, and even in thoſe Churches of Chriſt where God is beſt known, the Chriſtian Faith the beſt underſtood, and Chriſtianity profeſs'd in its greateſt Purity. It is a ſorrowful Conſideration, how much the Works of the Devil, Magick, Sorcery, Lying, Perjury, Uncleanneſs, Murder, Rapine, and Vi<g ref="char:EOLhyphen"/>olence, and indeed, all manner of Wickedneſs, are confidently and openly committed and a<g ref="char:EOLhyphen"/>vow'd. And now a moſt conſiderable part of
+<pb n="4" facs="tcp:47896:9"/> that Righteouſneſs we are here upon conſiſts in this, That we abandon the wicked Party of Sa<g ref="char:EOLhyphen"/>tan's Adherents, either Foreign or Domeſtick; and that being liſted in the Service of the true God, Father, Son, and Holy Ghoſt, we give up our ſelves to his Government and Obedience. And this is that ſo material a part of Righte<g ref="char:EOLhyphen"/>ouſneſs, call'd <hi>Repentance from dead Works,</hi> Heb. vi. 1.</p>
+            <p>A ſecond part of this Righteouſneſs is Faith, that is, the Knowledge and Belief of God in his Nature and Attributes, and a firm practical Belief of Chriſt the <hi>only Begotten Son of God,</hi> as the great Mediator betwixt God and Man, who, to that End, ha<g ref="char:EOLhyphen"/>ving took upon him our Nature, was Inveſted with the threefold Office of a <hi>Prophet,</hi> to Inſtruct us in the way to be Reconciled to God; of a <hi>Prieſt,</hi> to ſatisfie his Juſtice for all our paſt Of<g ref="char:EOLhyphen"/>fences; and of a <hi>King,</hi> to Conduct and Govern us; and finally, to Reward us for all our Ser<g ref="char:EOLhyphen"/>vices. <hi>This</hi> alſo <hi>is Life eternal,</hi> or another part of that Righteouſneſs for which we ſhall be Re<g ref="char:EOLhyphen"/>warded with Life Eternal, <hi>Thus to know thee the only true God, and Jeſus Chriſt, whom thou haſt ſent,</hi> John xvii. 3.</p>
+            <p>A third is, to <hi>Obey God's Holy Will and Com<g ref="char:EOLhyphen"/>mandments, and to walk in the ſame all the Days of our Life,</hi> that is, having abandon'd the Service
+<pb n="5" facs="tcp:47896:9"/> of Satan, and yielded our ſelves up to the Faith of Chriſt, the Completion of our Righteouſneſs will be this, to live the remaining part of our Lives to the Honour of God, by paying him a faithful Obedience to all his moſt Juſt and Righteous Commands. And <hi>Bleſſed are they who do his Commandments, for they only ſhall have right to the Tree of Life,</hi> Rev. xxii. 14. Thus, in ſhort, you ſee the ſtate of that Righteouſneſs, upon the account of which we ſhall be juſti<g ref="char:EOLhyphen"/>fy'd and ſav'd.</p>
+            <p>And now it will be eaſie to underſtand, what it is to <hi>Turn many to Righteouſneſs.</hi> And in the higheſt and moſt exalted ſence of the Phraſe, it is to Reduce whole Provinces under the Obedi<g ref="char:EOLhyphen"/>ence of God. It is to reſcue that unhappy part of Mankind, which have for ſo many Ages paſt, labour'd under the Tyranny of Satan; it is to reduce them to the juſt and happy Government of their rightful Lord and Maſter Jeſus Chriſt. It is to Inſtruct thoſe Dark Corners of the Earth, in which the Light of the Goſpel has not yet ſhone, or but very dimly: It is to enlighten them with a full and bright Knowledge of their Creator, Redeemer, and Sanctifier. And it is laſtly, to render them obſequious Servants to a juſt and holy God, <hi>whoſe Service is perfect freedom:</hi>
+               <pb n="6" facs="tcp:47896:10"/> It is, I ſay, to diveſt them of that Inhumanity, Savageneſs, and Brutality, whereby they are Beaſts of Prey to each other, and to ſtamp up<g ref="char:EOLhyphen"/>on their Souls that lovely Image of God, con<g ref="char:EOLhyphen"/>ſiſting in Knowledge, Faith, Love, and Purity, whereby they will become Angels, nay, God's, one to another. This is to <hi>Turn many to Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> in the higheſt Sence of the Phraſe: But in a Lower, yet a very Noble Sence, it is to be any ways Inſtrumental in the Inſtruction and Converſion of any Conſiderable number of Souls in any part of the World, as well within the Chriſtian Pale as elſewhere: Within the Chri<g ref="char:EOLhyphen"/>ſtian Pale, I ſay, where, God knows, there is ſtill that Ignorance, Profaneneſs, and Immorality, which loudly <hi>call for more Labourers into the Vine<g ref="char:EOLhyphen"/>yard,</hi> to carry on to Perfection the Information and Converſion of Chriſtians. And in both theſe Senſes</p>
+            <p>Secondly, <hi>Who they are who have heretofore, whoſe Duty yet it is, and who may ſtill be ſaid to Turn many to Righteouſneſs,</hi> is the ſecond thing I propos'd to ſhew you. And here we are to conſider, that as the Apoſtacy of Mankind from God began ſoon after the Creation, ſo God had his Miniſters from the very beginning conteſting
+<pb n="7" facs="tcp:47896:10"/> with the Powers of Darkneſs, and with all poſ<g ref="char:EOLhyphen"/>ſible Application reſcuing Mankind out of the <hi>Snares of the Devil,</hi> as <hi>Abel, Seth, Enos,</hi> and <hi>Noah</hi> before the Flood; which laſt, for his eminent and painful, tho' unſucceſsful Services in this great Work, was call'd the <hi>Preacher of Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> 2 Pet. ii. 5.</p>
+            <p>Nor did either the Occaſion for the like Preachers of Righteouſneſs ceaſe, even after the dreadful Deſtruction by an univerſal Deluge; nor was God afterwards wanting to his own Honour, or the Good of Mankind, in ſending his Prophets and Prieſts to be Preachers of Righ<g ref="char:EOLhyphen"/>teouſneſs to a wicked World.</p>
+            <p>It was but very few Centuries after the Flood, that the whole Earth was again Revolted from God, and overſpread with Wickedneſs; and it was not without a conſtant Succeſſion of Prieſts and Prophets, as well as of Mercies and De<g ref="char:EOLhyphen"/>ſtructions, that the Divine Providence did ſe<g ref="char:EOLhyphen"/>cure one only Nation, the <hi>Jews,</hi> in their Alle<g ref="char:EOLhyphen"/>giance to him. And yet even theſe his <hi>peculiar People, This Holy Nation,</hi> in proceſs of Time, had ſo corrupted themſelves, that <hi>their very Righteouſneſs was as filthy Rags,</hi> Iſai. lxiv. 6. And both their Principles and Morals were ſo far debas'd, and the moſt demure and preciſe amongſt them, the
+<pb n="8" facs="tcp:47896:11"/> Scribes and Phariſees ſo defective in both, that our Saviour told his Diſciples, <hi>Except their Righ<g ref="char:EOLhyphen"/>teouſneſs ſhould exceed the Righteouſneſs of the Scribes and Phariſees, they ſhould in no wiſe enter into the Kingdom of Heaven,</hi> Matt. v. 20.</p>
+            <p>And now when the Defection of Mankind from God was become ſo Univerſal, that it was time for him, either utterly to root out from the face of the Earth, all the Inhabitants of it, or he had no other way but by ſome Miracle of Mercy to Reform it; Then did the Divine Goodneſs, which always enclines him to the moſt Merciful part, chooſe to ſend an Ambaſ<g ref="char:EOLhyphen"/>ſador Extraordinary to propoſe Terms of Re<g ref="char:EOLhyphen"/>conciliation, and to invite Mankind home to God. And accordingly, <hi>God, who at ſundry Times, and in divers Manners, ſpake in time paſt unto the Fathers by the Prophets, did in theſe laſt Days,</hi> (or in the laſt great Age of the World) <hi>ſpeak unto us by his Son, whom he appointed Heir of all things, by whom alſo he made the World,</hi> Heb. i. 1, 2.</p>
+            <p>And here, how without Wonder and Aſto<g ref="char:EOLhyphen"/>niſhment, can we behold, with what pro<g ref="char:EOLhyphen"/>digious Zeal, Application, and Induſtry the Bleſſed Jeſus ſet upon the great Work of Re<g ref="char:EOLhyphen"/>forming Mankind. It was <hi>his Meat and Drink
+<pb n="9" facs="tcp:47896:11"/> to do the Will of him that ſent him,</hi> and accordingly <hi>he continually went about doing Good,</hi> both to the Bodies and Souls of Men. To their Bodies, by Healing them of all thoſe manifold and mighty Diſtempers that had then invaded them: To their Souls, by Curing them of thoſe moſt fatal Maladies of all, their Sins; to rid them of which, was ſo much the main and principal De<g ref="char:EOLhyphen"/>ſign of his coming into the World, that from hence he was denominated a Saviour to it; <hi>And they ſhall call his Name Jeſus, for he ſhall heal his People from their Sins.</hi> But the Original cauſe of all their Miſeries, both Bodily and Spiritu<g ref="char:EOLhyphen"/>al, proceeding from the miſchievous Enmity of Satan, he did with the utmoſt diligence pur<g ref="char:EOLhyphen"/>ſue that Rebel, driving him out of the Bodies and Souls of Men; both which he had ſo uni<g ref="char:EOLhyphen"/>verſally Uſurp'd, and did at that time ſo cruelly Tyrannize over.</p>
+            <p>And that he might at length be utterly diſ<g ref="char:EOLhyphen"/>poſſeſs'd of all his Dominion, and that no Corner of the Earth might be left him to exer<g ref="char:EOLhyphen"/>ciſe his Tyranny upon, when the Bleſſed Jeſus was leaving the World himſelf, in purſuance of that <hi>Power which was given unto him in Heaven, and on Earth,</hi> he Commiſſion'd his Apoſtles to proſecute the glorious Conqueſt over the Devil,
+<pb n="10" facs="tcp:47896:12"/> and all his Works, which he had begun, <hi>com<g ref="char:EOLhyphen"/>manding them to go, and diſciple all Nations, Baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt, and Teaching them to obſerve all things whatſoever he had commanded them, promiſing to be with them always, even unto the end of the World,</hi> Matt. xxviii. 18, 19, 20. And ſo faithful were they in the Ex<g ref="char:EOLhyphen"/>ecution of their Truſt, that they ſoon diſpers'd themſelves into the utmoſt parts of the Univerſe, ſo that not an Age had paſt, till <hi>their Sound went into all the Earth, and their Words unto the Ends of the World,</hi> Rom. x. 18. And thus you ſee who they are that have heretofore <hi>Turn'd many to Righteouſneſs.</hi>
+            </p>
+            <p>But who thoſe are, <hi>whoſe Duty yet it is, and who may ſtill be ſaid to do the ſame,</hi> remains to be conſider'd, and may God enable us to find them out.</p>
+            <p>And, <hi>Firſt,</hi> This is a Work incumbent upon every Chriſtian Church and Nation; but ought to be the Concern and Care of none more than ours, and can never be more ſeaſonably ſet upon than at ſuch a juncture as this. I ſay, to conſider, and aſſiſt in the beſt Methods of <hi>Turning many to Righteouſneſs,</hi> ought to be the Care and Concern of every Chriſtian Church and Nation;
+<pb n="11" facs="tcp:47896:12"/> and this out of a grateful Return for that Bleſſed Light of the Goſpel which has ſhone amongſt them, by which Chriſtians are, or may be, (if they ſuffer themſelves to be regulated by the Rules of Chriſtianity, which ſo directly tend to render both private Perſons and publick Socie<g ref="char:EOLhyphen"/>ties happy) by which Chriſtians may be, I ſay, ſo much diſtinguiſh'd from the deplorable State of thoſe Barbarous and Savage Nations, where Ignorance of the True God and Religion over<g ref="char:EOLhyphen"/>ſpreads their Country. Nothing more natu<g ref="char:EOLhyphen"/>rally diffuſes its ſelf than Light, and how pro<g ref="char:EOLhyphen"/>digiouſly ungrateful would it be for a People themſelves enlighten'd, not to ſpread that to all Mankind which was given them to ſhew others, as well as themſelves, the Way to God, and their Happineſs!</p>
+            <p>But eſpecially this is a Care and Concern incumbent upon ſuch a Church and Nation as ours. A Church ſo pure in its Doctrine, and ſo Heavenly in its Worſhip, as in that reſpect is the fitteſt in the World to be the Model to the New Acquiſitions which ſhall be gain'd to the Church of Chriſt. But, alas, that it ſhould be ever ſaid, that another Church, whoſe Reli<g ref="char:EOLhyphen"/>gion is ſo ſadly corrupted by <hi>Paganiſh</hi> Super<g ref="char:EOLhyphen"/>ſtitions, ſhould yet be ten thouſand times more
+<pb n="12" facs="tcp:47896:13"/> Zealous, in Baniſhing Infidelity and Paganiſm out of the World than ours is!</p>
+            <p>And it is a Work in Gratitude due from ſuch a Nation as this: A Nation ſo enrich'd by the Commerce and Commodities of ſo many Bar<g ref="char:EOLhyphen"/>barous and Pagan Countries. Surely, <hi>ſince we have in ſo plentiful a manner been made partakers of their Carnal Things, it is our Duty alſo to Mini<g ref="char:EOLhyphen"/>ſter to them in Spiritual things.</hi>
+            </p>
+            <p>And ſuch a Work ſurely can never be more <hi>Seaſonably</hi> promoted by any Church or Nation, than at ſuch a juncture as this. What has made up ſo great a part of our Devotions, for ſome Years paſt, as our Thankſgivings for the little leſs than Miraculous Deliverances we have re<g ref="char:EOLhyphen"/>ceiv'd, in the Preſervation of our Religion and Liberties?</p>
+            <p>And when had this our Preſervation ſo glorious a Completion, as at this time? and ſo ſolemn an Acknowledgment paid to Heaven for it, as lately in this Place? But what fulſome Hypocriſie would it be to thank God with ſuch ſeeming Devotion, for the Preſervation of a Religion we do not in the leaſt Value? or, How can we be thought to Value it at all, if when it is in our Power to ex<g ref="char:EOLhyphen"/>tend the Chriſtian Pale ſo far as we may, and to the bringing into it ſo many Thouſand Souls,
+<pb n="13" facs="tcp:47896:13"/> over whom we have an abſolute Dominion, ſhould we yet take no Care about it?</p>
+            <p>
+               <hi>Secondly,</hi> Thoſe whoſe Duty it is in a more peculiar Manner than others, to <hi>Turn many to Righteouſneſs,</hi> are the Miniſters of Religion; I ſay, in a more <hi>peculiar Manner</hi> than others; for we are not only ordained and ſeparated for this Work, but the Inſtructing, Inlightning, and Informing of the World, which is the Foundation of all Righ<g ref="char:EOLhyphen"/>teouſneſs, is peculiarly the Paſtors Province. I do call the Inſtilling of Divine Knowledge into the Minds of Men, the <hi>Foundation of all Religion:</hi> For why? Knowledge of the true Nature of God, and of all the parts of that Religion which is to be paid him, is a neceſſary Guide and Di<g ref="char:EOLhyphen"/>rector to all Virtuous and Religious Practice, it being the ſame thing to the Soul, as the Eye is to the Body. Nor is Divine Knowledge ne<g ref="char:EOLhyphen"/>ceſſary to Mens living Vertuouſly, only as it is a Guide and Director to us ſo to live, but it is requiſite alſo, as it is the Principle and Reaſon whereon all virtuous and worthy Deeds are to be founded; inſomuch, that a thing which is other<g ref="char:EOLhyphen"/>wiſe well done, if it be not done <hi>knowingly,</hi> but ignorantly, will not be imputed by God, nor Man, as a vertuous and laudable Action. Nay, the chiefeſt of all Divine Graces, if it be not acted
+<pb n="14" facs="tcp:47896:14"/> out of a through Knowledge of the Nature of God, and of true Religion, will e'en become, for want thereof, the Blackeſt of all Sins: as <hi>Zeal,</hi> when not guided by Knowledge, will eaſily be tranſported to Cruelty and Murther. What ſhall I ſay? The want of throughly underſtanding the true Nature of God, and the Nature and Deſign of the Chriſtian Religion, is the only Cauſe of all that Superſtition which is in the World; of Superſtition I ſay, than which there is not a more grievous Malady that can poſſibly infect the Souls of Men, ſo as to render them more troubleſome to themſelves, more miſchie<g ref="char:EOLhyphen"/>vous to the publick Good and Welfare of the Church, and to act more diſhonourably and pro<g ref="char:EOLhyphen"/>voking to God. In ſhort, it is Ignorance which is the Natural Parent of that Atheiſm and In<g ref="char:EOLhyphen"/>fidelity ſo riſe amongſt Men; and indeed, not only of that, but of all other Vices and Wick<g ref="char:EOLhyphen"/>edneſſes whatſoever.</p>
+            <p>And now it is the great Duty of the Mini<g ref="char:EOLhyphen"/>ſters of Religion, to remove from the Minds of Men that Ignorance of Divine things, which is the cauſe of all their Miſcarriages, and to inſtill into them thoſe Doctrines and Religious Prin<g ref="char:EOLhyphen"/>ciples which are the Fountain of all their farther Righteouſneſs. This we are to attend upon,
+<pb n="15" facs="tcp:47896:14"/> by <hi>Catechizing,</hi> and <hi>Preaching,</hi> and <hi>Conference,</hi> and whatever Methods can be thought moſt ſucceſs<g ref="char:EOLhyphen"/>ful and effectual in the Inſtruction of Mankind; and thoſe who ſhall beſt inſtruct their People, ſhall moſt effectually <hi>Turn many to Righteouſneſs:</hi> And therefore,</p>
+            <p>
+               <hi>Thirdly,</hi> Thoſe Perſons will be reputed to have no ſmall ſhare in this Bleſſed Work, who have put the Miniſters of God in a Ca<g ref="char:EOLhyphen"/>pacity of ſo Inſtructing his People, by making a Proviſion for the Acquiſition, Maintenance, and Propagation of Chriſtian Knowledge. Such are thoſe who have been the Founders of Churches, Schools, Colleges, and Libraries. And not here to ſpeak of the Excellency of ſuch Cha<g ref="char:EOLhyphen"/>rities, which directly tending to the Everlaſting Happineſs of the Souls of Men, muſt be as far beyond what terminate only on this Mortal Life, as the Soul is more Excellent than the Bo<g ref="char:EOLhyphen"/>dy; and as an Eternal is to be preferred to a Temporal Felicity: But not to inſiſt on this: The Advantage of being thus Inſtrumental in Turning many to Righteouſneſs lies here, That it is not only in the preſent Generation, that ſuch are thus ſerviceable to the Souls of Men, but in all Ages to come, and when they ſhall be long dead, they will yet ſpeak, and ſo ſpeak as to have
+<pb n="16" facs="tcp:47896:15"/> a Share in all the Converſions, which ſhall be made by Vertue, and through the Aſſiſtance of that Stock which they have laid up for the Pro<g ref="char:EOLhyphen"/>moting of Religion and Learning.</p>
+            <p>And eſpecially, the Erecting of Libraries of neceſſary and uſeful Books in Divinity, is of all others a neceſſary Proviſion for the Propagation of Chriſtian Knowledge. For why? <hi>The Prieſts Lips ſhould preſerve Knowledge,</hi> becauſe <hi>the People are to ſeek the Law at his Mouth,</hi> Mal. ii. 7. And the Meaſures of Knowledge a Miniſter is to be Maſter of, muſt be neceſſarily ſuch as ſhall en<g ref="char:EOLhyphen"/>able him to give his People an entire View of the whole Scheme of Chriſtian Doctrine in that Connexion, wherein one part of it depends upon another, and for want of which, the Generality of Chriſtians are ſo ignorant of the true Nature and Deſign of Chriſtianity. Farther, a Paſtor muſt throughly underſtand the Nature, Terms, and Conditions of the Covenant of Grace, and the Nature of Chriſt's Mediation, through which it was obtain'd. More particulary yet, he muſt be able clearly to explain, and fully to prove each Article of his Chriſtian Faith; many of which not being obvious to our Natural Rea<g ref="char:EOLhyphen"/>ſon, but capable of Proof only from the Scrip<g ref="char:EOLhyphen"/>tures, he muſt be well vers'd in the Language,
+<pb n="17" facs="tcp:47896:15"/> and Manner of Speaking of the Holy Pen-Men, before they can be ſo explain'd and prov'd. And he muſt be able to ſtate exactly the Nature and Extent of Chriſtian Duties, which Know<g ref="char:EOLhyphen"/>ledge depending upon a right Underſtanding of the Nature, and different Obligations of all thoſe many ſorts of Laws, Natural, Divine, and Hu<g ref="char:EOLhyphen"/>mane, which regulate and direct our Duties. This is a part of Knowledge as extenſive as it is neceſſary.</p>
+            <p>All which Premiſes being duly conſider'd, and withall, that we cannot now work Miracles, and that <hi>Inſpiration</hi> is no part of our Talent; but that we are left to the Ordinary means of Converting the World; <hi>namely,</hi> the Common Meaſures of God's Holy Spirit accompanying our hard Study: It muſt therefore clearly follow, that thoſe Perſons will be reputed to have no ſmall ſhare in this Bleſſed Work, who ſhall lay ſuch a Foundation of Chriſtian Knowledge, as without which, Humanely ſpeaking, it is not poſſible the Paſtors of Chriſt's Church ſhould feed their Flock with neceſſary Inſtruction.</p>
+            <p>
+               <hi>Thirdly,</hi> And now I am to ſhew you, <hi>That it will be found one day the higheſt pitch of Wiſdom to have been Inſtrumental in this Bleſſed Work of
+<pb n="18" facs="tcp:47896:16"/> Turning many to Righteouſneſs.</hi> It is the part of Wiſdom to propoſe to it ſelf a Good End, and then to purſue it by due and proper Means. And proportionably, as the End is more or leſs excellent, and the Means more or leſs adapted to carry it on; in the ſame degree is a Man's Wiſdom to be judg'd greater or leſs with rela<g ref="char:EOLhyphen"/>tion to it. Now here the End is incomparably excellent, beyond any other that can be nam'd. For why? to <hi>Turn many to Righteouſneſs</hi> is, in effect, to conſult, and that in the higheſt Man<g ref="char:EOLhyphen"/>ner, the Honour and Glory of God, and the greateſt Good and Happineſs of Mankind, than which nothing can be thought of more Excel<g ref="char:EOLhyphen"/>lent. <hi>To Turn many to Righteouſneſs,</hi> you have alſo ſeen, is to diſpoſſeſs Satan of an unrighteous Uſurpation he has made upon God's Dominion over his own Creatures, and it is to reduce them under the Government of their Rightful Lord and Maſter. And can any thing be more glo<g ref="char:EOLhyphen"/>rious than ſuch an Achievement? And it is ſo to rectifie the corrupt and ſinful Nature of Men, and to bring them under the Direction of ſuch Laws, as alone can make them happy: And what is it to be a Benefactor, if this be not?</p>
+            <p>Nor can any Means be more worthy and great, and better fitted to the Purpoſes propos'd,
+<pb n="19" facs="tcp:47896:16"/> than thoſe we have conſider'd. For let the whole Nation, let the Clergy, and ſuch as have Wealth and Subſtance, ſet heartily about it, and the Work is done.</p>
+            <p>This, in ſhort, is to be <hi>wiſe to Salvation,</hi> and alas! what is the Wiſdom of this World in com<g ref="char:EOLhyphen"/>pariſon with this? What an Ideot is <hi>David</hi>'s Fool, who when he might <hi>make to himſelf Friends in Heaven of the Mammon of Unrighteouſneſs, heaps up to himſelf Riches, not knowing who ſhall gather them?</hi> And who is wholly ſolicitous to find out ſome one, <hi>from whom he might call his Lands after his own Name,</hi> (fondly thinking, that by this means <hi>his Houſes ſhall continue for ever, and his Dwelling-Places to all Generations</hi>). When by ſuch Charities to the Souls of Men, as have been mentioned, he might provide that his Name be <hi>written in the Book of Life.</hi> Which brings me to the laſt thing propos'd; and ſhews, that to <hi>Turn many to Righteouſneſs</hi> is the higheſt Wiſ<g ref="char:EOLhyphen"/>dom, becauſe that,</p>
+            <p>Fourthly, <hi>Such will be the moſt Gloriouſly re<g ref="char:EOLhyphen"/>warded.</hi> Beſides, the Propoſing of a Good End, and the Proſecuting of it by due and proper Means, there is ſomething yet farther wanting to compleat the Wiſdom of our Actions, and
+<pb n="20" facs="tcp:47896:17"/> that is, to do all in the Proſpect of an excellent Reward. And here, as the End, <hi>viz.</hi> the Glory of God, and the Good of Mankind, is the moſt tranſcendently Glorious, and the Means propos'd in order to accompliſh it, are what do moſt become Chriſtians in their ſeveral Stations, and according to their ſeveral Abilities; ſo the Re<g ref="char:EOLhyphen"/>ward that will Crown all this, is here in my Text ſpoke to be ſuch, as is not in the power of Words to expreſs a greater. <hi>They that are wiſe ſhall ſhine as the Brightneſs of the Firmament, and they that turn many to Righteouſneſs as the Stars for ever and ever.</hi>
+            </p>
+            <p>And indeed, as of all other Sinners, thoſe will be the moſt exquiſitely puniſh'd, who ſhall any ways corrupt and deprave the Principles and Manners of Mankind: So of all the Righteous Servants of God, thoſe will be exalted to the higheſt degrees of Glory, who ſhall be moſt indu<g ref="char:EOLhyphen"/>ſtrious in the Inſtruction and Converſion of Men.</p>
+            <p>
+               <hi>I ſay of all other Sinners, thoſe will be the moſt ex<g ref="char:EOLhyphen"/>quiſitely puniſh'd, who ſhall any ways corrupt and deprave the Principles and Manners of Mankind.</hi> Such as do ſow ill Principles, and do any ways diſcourage and diſcountenance Piety and Vertue, are ſaid to <hi>put a Stumbling-block, and to be an Occaſion to fall in their Brother's way,</hi> Rom. xiv. 13. And <hi>wo to that Man</hi> (ſaith our Saviour) <hi>by whom
+<pb n="21" facs="tcp:47896:17"/> the Offence cometh: For whoſo ſhall offend one of the meaneſt of thoſe that believe in him, it were better for him that a Milſtone were hanged about his Neck, and that he were drowned in the depth of the Sea,</hi> Matt. xviii. 6, 7. And a moſt emphatical Threatning this is to all thoſe wicked Inſtruments of <hi>Uunrighteouſneſs</hi> abroad in the World, who make it their Buſineſs, and ſeem to be intent upon this very thing. It is ſad enough to have one ſelf done or acted wickedly: But whoſo<g ref="char:EOLhyphen"/>ever ſhall not only <hi>break,</hi> tho' it be <hi>one of the leaſt Commandments; but ſhall teach Men ſo, he ſhall be called the leaſt in the Kingdom of Heaven,</hi> Matt. v. 19. that is, none at all: He ſhall be caſt out of it, and puniſh'd as one of thoſe who are the greateſt Enemies to it. There is in the Words a vaſt deal more to be underſtood than is ex<g ref="char:EOLhyphen"/>preſs'd, as is uſual, both in the Sacred Writings, and in profane Authors; ſo that the Caſe of thoſe Men is moſt dreadfully and deſperately bad, who by profane, atheiſtical, and lewd Diſcourſe, or whatever other <hi>evil Communications do, corrupt good</hi> Principles and <hi>Manners.</hi> But above all others, it is a dreadful thing to con<g ref="char:EOLhyphen"/>ſider what will be the Doom of thoſe Men, who by wicked Books, ſuch as both <hi>Atheiſts, Deiſts, Socinians,</hi> and <hi>Antinomians</hi> do now, to the Re<g ref="char:EOLhyphen"/>proach
+<pb n="22" facs="tcp:47896:18"/> of our Church and Nation, daily pub<g ref="char:EOLhyphen"/>liſh amongſt us. It is dreadful, I ſay, to con<g ref="char:EOLhyphen"/>ſider what will befall ſuch in the End. What Evil of this Nature is done only by Diſcourſe, is but tranſciently bad, and may ruine the Souls only of ſome few of their unfortunate Companions. But the wicked Principles which are propagated by Books are laſting Miſchiefs, from whence, as from a <hi>Pandora</hi>'s Box, fly out thoſe Plagues and Mortal Diſeaſes that can never be recall'd, and will ſpread Deſtruction and Ruine amongſt the Souls of Men to the World's End.</p>
+            <p>And indeed it is hard to ſay, what Meaſures of Repentance may be ſufficient for theſe Men. The Repentance they muſt come to, or be everlaſtingly and immeaſurably Undone, muſt be ſuch as comes not under the ordinary Definitions given that great Condition of our Salvation. It is not a pri<g ref="char:EOLhyphen"/>vate Grief and Sorrow, nor barely an Amend<g ref="char:EOLhyphen"/>ment for the future, will be ſufficient to reconcile ſuch to God. But as the Diſhonours done to the Great Creator, by their means, are never likely to end, but with the World; ſo the Repara<g ref="char:EOLhyphen"/>tions to be made for theſe kind of Affronts and Injuries to Chriſt's Kingdom muſt be by a Recantation as publick and laſting as the Na<g ref="char:EOLhyphen"/>ture
+<pb n="23" facs="tcp:47896:18"/> of the Offence is. And the exacting of ſuch a Repentance as this, I muſt needs recom<g ref="char:EOLhyphen"/>mend to you, <hi>my Brethren,</hi> who are entring to day into the <hi>Miniſtry,</hi> when-ever you are called to the Sick Bed of any notorious Atheiſt or Deiſt whatſoever. And this was the Reſolution of a very eminent Biſhop of our Church, in the Caſe of one of a conſiderable figure amongſt them, after he had written his Book <hi>de Veritate.</hi> You are the Stewards of the Myſteries of God, ſo that you cannot, with Fidelity to your Great Maſter, diſpence the Sacrament of Reconciliation to thoſe, who have erected laſting Batteries againſt his King<g ref="char:EOLhyphen"/>dom, till they themſelves, by a like publick Recantation, ſhall have pull'd them down with their own hands. So that you ſee the very Repentance of thoſe, who ſhall <hi>Turn many to Unrighteouſneſs,</hi> is a hard and fearful Diſcipline. And what then? How much beyond the com<g ref="char:EOLhyphen"/>mon Meaſures will the Puniſhment of thoſe amongſt them be, who ſhall remain Impeni<g ref="char:EOLhyphen"/>tent? And indeed it is but reaſonable to be<g ref="char:EOLhyphen"/>lieve, that the Caſe will be vaſtly different betwixt thoſe who have only in their own Perſons tranſgreſt the Laws of God, and ſuch who make a Party, and fight the Devil's Battels againſt Him. Theſe Men muſt be ſuppoſed to be firſt
+<pb n="24" facs="tcp:47896:19"/> at perfect Enmity with Him, and their whole Nature muſt be envenom'd againſt Him; and therefore it cannot be expected but that the <hi>Fury of his Wrath,</hi> and the very <hi>Dregs of his An<g ref="char:EOLhyphen"/>ger</hi> will be poured out againſt ſuch.</p>
+            <p>And now, if of all other Sinners thoſe will be the moſt exquiſitely puniſh'd, who ſhall any ways corrupt and deprave the Principles and Manners of Mankind; then, by parity of Reaſon, <hi>of all the Righteous Servants of God, thoſe will be exalted to the higheſt degrees of Glory, who ſhall be moſt induſtrious in the Inſtruction and Converſion of Men; or ſhall lay the Foundation of Chriſtian Know<g ref="char:EOLhyphen"/>ledge, or Contribute toward the Promoting of it.</hi> For this we need no other Teſtimony than that remarkable place of St. <hi>James</hi> v. 20. <hi>Know, that he which converteth a Sinner from the Error of his Ways, ſhall ſave a Soul from Death, and ſhall cover a Multitude of Sins.</hi> Theſe Words ſpeak ſuch a Regard to the Charitable Endeavours of thoſe who do any ways promote, or do Labour in the Inſtruction and Converſion of Sinners, that through the Merits and Satisfaction of Chriſt, (by which only it is that God becomes pro<g ref="char:EOLhyphen"/>pitious to our beſt Performances) this kind of Charity will be had in no mean Conſideration when God ſhall take Cognizance of our Sins
+<pb n="25" facs="tcp:47896:19"/> and Failures. And if the Converting of one Sinner ſhall be ſo conſider'd, what Glories will await thoſe who <hi>Turn many to Righteouſneſs?</hi> I cannot poſſibly expreſs them in any higher Words than thoſe of my Text, in which alone there is a force and luſtre, like to the Rewards themſelves which they beſpeak.</p>
+            <p>And proportionably as the Aſſiſtances given to <hi>Turn many to Righteouſneſs</hi> ſhall be moſt extenſive and laſting; in the ſame meaſure we muſt ſuppoſe the degrees of Glory will be alotted to ſuch Piety. And therefore, ſince, next to what the Apoſtles did by their perſonal Labours, and inſpir'd Writings, to Convert Mankind to God, ſcarcely any thing can be thought of a more direct and immediate Tendency to the ſame Glorious and Bleſſed End, than to lay up thoſe Magazines of Chriſtian Knowledge on the Confines of Satan's Kingdom, out of which the Miniſters of God's Word may be conſtantly ſupply'd, both with the Food of Souls, and with that Spiritual Armour where<g ref="char:EOLhyphen"/>with they may carry on the War with Succeſs, ſo as at length to drive that Arch-Rebel out of thoſe vaſt Territories he now poſſeſſes: It will therefore follow, that thoſe pious Perſons will moſt effectually conſult their future Happineſs,
+<pb n="26" facs="tcp:47896:20"/> and provide beſt for an Exalted Glory, who ſhall expend moſt in fixing Libraries of neceſſary and uſeful Books in Divinity, in or<g ref="char:EOLhyphen"/>der to the Inſtruction both of Miniſter and People. Such indeed cannot be ſaid, by ſo doing, to hazard their Perſons in the Con<g ref="char:EOLhyphen"/>verting of Mankind, and ſo may not be en<g ref="char:EOLhyphen"/>titled thereby to the Reward of <hi>Martyrs</hi> and <hi>Confeſſors.</hi> But however, they may be much more inſtrumental in <hi>Turning many to Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> even than thoſe who actually labour in the Work it ſelf; becauſe that, in effect, it will be they who ſhall <hi>Preach, Catechize,</hi> and <hi>Inſtruct</hi> thoſe Parts of the World, as well in future, as in the preſent Age. It is they will be the Fountain, we ſhall be only the Conduit-Pipes through which the Waters of Life will be convey'd to the People: And therefore, except we ſhall beſtir our ſelves very much, they will far out-ſtrip us in the Perſuit of Eternal Glory.</p>
+            <p>In ſhort, Thoſe who ſhall make ſuch a laſting Proviſion for the Inſtruction and Con<g ref="char:EOLhyphen"/>verſion of any conſiderable part of Mankind, may, in ſo doing, be very well look'd upon as a ſort of <hi>Apoſtles</hi> to thoſe Parts of the World. And if ſo, we may conclude a
+<pb n="27" facs="tcp:47896:20"/> great deal concerning the Degrees of Glory wherewith ſuch ſhall be recompenc'd, from that Promiſe of our Saviour to his Apoſtles, <hi>Matt.</hi> xix. 28. <hi>Verily, I ſay unto you, When the Son of Man ſhall ſit on the Throne of his Glory, ye alſo ſhall ſit upon Twelve Thrones, judg<g ref="char:EOLhyphen"/>ing the Twelve Tribes of Iſrael:</hi> For tho' we are not to conclude from theſe Words, that any beſides the Twelve ſhall be exalted to the higheſt Degrees of Happineſs, yet from hence we may clearly gather, that proportionably as Perſons ſhall approach neareſt to the Apo<g ref="char:EOLhyphen"/>ſtles in Evangelizing Mankind, they ſhall be placed nearer and nearer to them upon the ſeveral Aſcents, to the higheſt Stations in the Kingdom of Heaven.</p>
+            <p>Not that I would leſſen the Hopes of Glory to you, <hi>my Brethren,</hi> who ſhall labour in this Great and Glorious Work, of <hi>Gaining Souls to God.</hi> No, but rather give me leave, with the great Apoſtle to the Gentiles, <hi>Rom.</hi> xi. 13. <hi>to magnifie to you your Office,</hi> who are entring to day upon the Sacred Miniſtry, and ſome of you in order to a Bleſſed Miſſion. And you have this Advantage of all other Profeſſions of Men, that whereas others, by a due diſcharge of the Duties of their proper Calling, can only
+<pb n="28" facs="tcp:47896:21"/> become Righteous themſelves, you, in the due Exerciſe of your Miniſtry, will <hi>Turn many to Righteouſneſs:</hi> So that whilſt other Chriſtians can expect only the common Rewards for well-doing, you may promiſe your ſelves, upon the Performance even of the ordinary Duties of your Function, to be extraordinarily recompenc'd. And the Reaſon is this, becauſe the Good that you will do is doubly and trebly beneficial; for you will not only conſult there<g ref="char:EOLhyphen"/>by your own Happineſs, but will render your ſelves Benefactors to Mankind, and what is above all, will enlarge the Bounds of Chriſt's Kingdom.</p>
+            <p>I ſay you will render your ſelves Benefa<g ref="char:EOLhyphen"/>ctors to Mankind. For why? the Religion you are to propagate and promote, is of ſuch a Nature and Tendency, that were it heartily embrac'd, the moſt Wild and Savage of Men would become Innocent, Kind, and Sociable to one another; they would not hurt nor de<g ref="char:EOLhyphen"/>ſtroy in all the Holy Mountain. And it is Prophecy'd, that this will be the Fruits of Chriſtianity, when <hi>the Earth ſhall be full of the Knowledge of the Lord,</hi> Iſai. xi. 9. And you will alſo, by a diligent Application to the Duties of your proper Calling, pull down the
+<pb n="29" facs="tcp:47896:21"/> Kingdom of Satan, and enlarge the Bounds of Chriſt's Kingdom, or at leaſt-wiſe encreaſe the Number of his faithful Subjects.</p>
+            <p>This will indeed engage you in great Con<g ref="char:EOLhyphen"/>flicts with the Powers of Darkneſs; and the Difficulties and Oppoſitions they and their Agents, the wicked Men of the World, ſhall give you, will call forth all your Courage and Prudence to reſiſt. But the greater are the Dangers and Difficulties, the more noble is the Vertue; and the greater the Vertue, the more glorious will be the Reward.</p>
+            <p>And therefore I cannot forbear to bleſs that Providence which calls both you and me into the Service of thoſe darker parts of the Church, where we ſhall have occaſion to do more Good than here we could be able, to conteſt with greater Difficulties, and thereby to entitle our ſelves to the chiefeſt Rewards. For a bad as it is to be Ambitious after Earthly Honours, it is nobly Vertuous, and Chriſtian-like, an Emu<g ref="char:EOLhyphen"/>lation to excell in the Favour of God, and in thoſe Stations of Glory which he will beſtow upon ſuch as ſhall exert themſelves in his Ser<g ref="char:EOLhyphen"/>vice. And to be Inſtrumental <hi>in bringing Light to them that ſit in Darkneſs, and in the Shadow of Death,</hi> whether we conſider the Service, or the
+<pb n="30" facs="tcp:47896:22"/> Recompence, has enough in it to ſatisfie the moſt pious Ambition.</p>
+            <p>To conclude therefore in the Words of St. <hi>Paul,</hi> 1 Tim. vi. 12. <hi>Fight the good Fight of Faith,</hi> that is, maintain and propagate the Goſ<g ref="char:EOLhyphen"/>pel againſt all Oppoſition, and live according to it; <hi>lay hold on Eternal Life,</hi> nay, ſtrive to excell in thoſe Achievements that ſhall entitle you to the chiefeſt Glories of it; for this is that <hi>whereunto you are called,</hi> and are now to <hi>pro<g ref="char:EOLhyphen"/>feſs this good Profeſſion</hi> at an Holy Ordination <hi>before many Witneſſes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:47896:22"/>
+            <head>ADVERTISEMENT.</head>
+            <p>A Short Diſcourſe upon the Doctrine of our Baptiſmal Covenant, being an Expoſition upon the Preliminary Queſtions and Anſwers of our Church Catechiſm, proper to be read by all young Perſons, in Order to their Under<g ref="char:EOLhyphen"/>ſtanding the whole Frame and Tenor of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion, and to their being duly prepared for Confirmation. With Devotions Preparatory to that Apoſtolick and Uſeful Ordinance. To which is added, An Appendix, being a Method of Family Religion. By <hi>Tho. Bray,</hi> D. D.</p>
+            <p>Printed for <hi>W. Hawes,</hi> at the Sign of the <hi>Roſe</hi> in <hi>Ludgate-Street.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
